@@ -18,7 +18,6 @@ OpenSovix is a micro-kernel that is still developing which published with GPL-3.
 仍在开发图形操作界面，文件管理系统，和底层硬件支持。
 需要使用wsl或Linux进行编译运行，依赖宿主系统。
 
-#构建系统：
 # 克隆项目
 git clone <repository-url>
 cd microkernel
