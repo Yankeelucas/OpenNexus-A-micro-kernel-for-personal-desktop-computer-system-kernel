@@ -30,7 +30,7 @@ OpenSovix is a micro-kernel that is still developing which published with GPL-3.
    ```make all
 
 4.运行
-   ```make run
+   ```make run ```
 
 
 # 模块开发流程
