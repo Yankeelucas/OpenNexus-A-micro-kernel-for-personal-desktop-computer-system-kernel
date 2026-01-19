@@ -1,5 +1,5 @@
-# OpenNexus-A-micro-kernel-for-personal-desktop-computer-system-kernel
-OpenNexus is a micro-kernel that is still developing which published with GPL-3.0, aim to replace Window 
+# OpenSovix-A-micro-kernel-for-personal-desktop-computer-system-kernel
+OpenSovix is a micro-kernel that is still developing which published with GPL-3.0, aim to replace Window 
 
 以下为简体中文：
 注意⚠️：此项目采用GPL-3.0--or-later许可证授权。
