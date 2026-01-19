@@ -1,4 +1,4 @@
-u# OpenSovix-A-micro-kernel-for-personal-desktop-computer-system-kernel
+OpenSovix-micro-kernel-for-personal-desktop-computer-system-kernel
 OpenSovix is a micro-kernel that is still developing which published with GPL-3.0, aim to replace Windows
 
 以下为简体中文：
@@ -19,7 +19,7 @@ OpenSovix is a micro-kernel that is still developing which published with GPL-3.
 需要使用wsl或Linux进行编译运行，依赖宿主系统。
 # 构建系统
 1.克隆项目
-   git clone <repository-url>
+ ```   git clone <repository-url>
    cd microkernel 
 
 2.安装依赖
