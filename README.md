@@ -39,10 +39,10 @@ OpenSovix is a micro-kernel that is still developing which published with GPL-3.
 1. 复制 template.c 作为起点
 2. 修改模块信息（名称、版本、描述等）
 3. 实现功能函数（最多15个）
-4. 编译模块：
+4. 编译模块并加载模块
   ```bash
       make template-module```
-5.在运行时加载模块
+
 
 # 系统命令示例
  ```# 查看系统状态
