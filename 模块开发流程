@@ -1,3 +1,4 @@
+; SPDX-License-Identifier: GPL-3.0-or-later
 模块开发流程
 
 1. 复制 template.c 作为起点
