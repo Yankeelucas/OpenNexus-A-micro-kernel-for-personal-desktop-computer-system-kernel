@@ -42,7 +42,8 @@ make run
    make template-module
    ```
 5. 在运行时加载模块
-命令示例
+
+#命令示例
 # 查看系统状态
 > sysinfo
 
