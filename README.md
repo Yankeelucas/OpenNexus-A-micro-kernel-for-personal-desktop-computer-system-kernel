@@ -26,11 +26,11 @@ OpenSovix is a micro-kernel that is still developing which published with GPL-3.
      >sudo apt-get install nasm gcc-multilib qemu-system-x86 grub-pc-bin xorriso 
 
 3.构建系统
-     >make clean
-     make all 
+    > make clean
+      make all 
 
 4.运行
-     >make run  
+    > make run  
 
 
 
@@ -40,7 +40,7 @@ OpenSovix is a micro-kernel that is still developing which published with GPL-3.
 2. 修改模块信息（名称、版本、描述等）
 3. 实现功能函数（最多15个）
 4. 编译模块并加载模块
-      bash
+     >bash
       make template-module
 
 
