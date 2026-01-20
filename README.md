@@ -1,4 +1,4 @@
-OpenSovix-micro-kernel-for-personal-desktop-computer-system-kernel
+OpenSovix
 OpenSovix is a micro-kernel that is still developing which published with GPL-3.0, aim to replace Windows
 
 以下为简体中文：
