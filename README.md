@@ -64,13 +64,20 @@ make run
 系统启动后，您可以使用以下命令进行交互和管理：
 
 ```命令 功能描述 示例
-sysinfo 显示系统概要信息（版本、内存使用等）。 
-sysinfops 列出当前系统中所有的进程。 
-psmodules 显示所有已加载的内核模块。 
-modulesmempools 列出所有已创建的内存池及其状态。 
-mempoolsmempool create 创建一个新的内存池: mempool create small_objects SMALL 1024
-module load/unload 动态加载或卸载一个功能模块:module load memory_gc.bin
-mount 挂载文件系统（需先加载对应模块）:mount /dev/hda1 /mnt NTFS
+#sysinfo
+ 显示系统概要信息（版本、内存使用等）。 
+#sysinfops 
+ 列出当前系统中所有的进程。 
+#psmodules 
+显示所有已加载的内核模块。 
+#modulesmempools 
+列出所有已创建的内存池及其状态。 
+#mempoolsmempool create 
+创建一个新的内存池 eg: mempool create small_objects SMALL 1024
+#module load/unload 
+动态加载或卸载一个功能模块 eg :module load memory_gc.bin
+#mount 
+挂载文件系统（需先加载对应模块）eg:mount /dev/hda1 /mnt NTFS
 ```
 
 # 🚧 当前开发状态与路线图
